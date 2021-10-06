@@ -33,3 +33,7 @@ harness = false
 [[bench]]
 name = "a-prime"
 harness = false
+
+[[bench]]
+name = "simulate"
+harness = false
